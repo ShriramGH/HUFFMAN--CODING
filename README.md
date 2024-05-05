@@ -36,7 +36,7 @@ REGISTER NUMBER: 212222240098
 ```
 # Get the input String
 ```python
-string = 'P Sri Varshan'
+string = 'Shriram S'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -93,7 +93,7 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 
-![image](https://github.com/ShriramGH/HUFFMAN--CODING/assets/117991122/09c36466-d84c-48aa-b6c3-d33b08d063be)
+![image](https://github.com/ShriramGH/HUFFMAN--CODING/assets/117991122/532cf48f-f244-4b43-9447-d38171242f1e)
 
 ## Result
 
